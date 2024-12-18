@@ -6,4 +6,3 @@ Fort Conquer is a strategic lane-based game where players manage resources to de
 
 ![Screenshot 2024-12-17 at 10 11 40 PM](https://github.com/user-attachments/assets/2571d4f8-b076-42c1-a3ad-be964ac7eaee)
 
-![Screenshot 2024-12-17 at 10 11 40 PM](https://github.com/user-attachments/assets/f868caf3-7c3f-4f90-a31a-733f927aa2e1)
